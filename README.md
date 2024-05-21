@@ -12,32 +12,36 @@ Es importante destacar que este video está diseñado para ayudar a los usuarios
  
 Para este video utilizamos las siguientes herramientas:
 
-Azure: Es la plataforma de servicios en la nube de Microsoft que ofrece una amplia gama de servicios para el desarrollo, implementación y administración de aplicaciones en la nube. Permite a las organizaciones construir, implementar y administrar aplicaciones a través de una red global de centros de datos administrados por Microsoft.
+**Azure:** Es la plataforma de servicios en la nube de Microsoft que ofrece una amplia gama de servicios para el desarrollo, implementación y administración de aplicaciones en la nube. Permite a las organizaciones construir, implementar y administrar aplicaciones a través de una red global de centros de datos administrados por Microsoft.
 
 ![image](https://github.com/Andres-paredes-fernandez/Automatizacion-Azure-con-Terraform-File-Share-para-Maquinas-Virtuales/assets/99333953/c837c99a-9b16-4809-b92c-b8de6951ac0f)
 
-Terraform: Es una herramienta de código abierto desarrollada por HashiCorp que permite definir y provisionar infraestructura como código. Con Terraform, los usuarios pueden describir su infraestructura en archivos de configuración declarativos que luego se utilizan para crear y gestionar recursos en diversos proveedores de nube.
+**Terraform:** Es una herramienta de código abierto desarrollada por HashiCorp que permite definir y provisionar infraestructura como código. Con Terraform, los usuarios pueden describir su infraestructura en archivos de configuración declarativos que luego se utilizan para crear y gestionar recursos en diversos proveedores de nube.
 
  ![image](https://github.com/Andres-paredes-fernandez/Automatizacion-Azure-con-Terraform-File-Share-para-Maquinas-Virtuales/assets/99333953/e341269e-5ea1-4f16-9d80-5c91b8f1d2e2)
 
-Puntos Fuertes:
+**Puntos Fuertes:**
  
-- Automatización Consistente: Terraform permite definir la infraestructura como código, lo que garantiza una implementación consistente y reproducible.
-- Escalabilidad: Azure ofrece escalabilidad para adaptarse a las necesidades cambiantes de las aplicaciones y cargas de trabajo.
-- Facilidad de Configuración: La integración entre Terraform y Azure simplifica la configuración y gestión de recursos en la nube.
+**- Automatización Consistente:** Terraform permite definir la infraestructura como código, lo que garantiza una implementación consistente y reproducible.
+
+**- Escalabilidad:** Azure ofrece escalabilidad para adaptarse a las necesidades cambiantes de las aplicaciones y cargas de trabajo.
+
+**- Facilidad de Configuración:** La integración entre Terraform y Azure simplifica la configuración y gestión de recursos en la nube.
   
-Puntos Débiles:
+**Puntos Débiles:**
  
-- Curva de Aprendizaje: Tanto Azure como Terraform pueden tener una curva de aprendizaje pronunciada para usuarios nuevos.
-- Posibles Costos Adicionales: La implementación incorrecta o ineficiente puede resultar en costos adicionales en Azure.
-- Complejidad en la Configuración Avanzada: Algunas configuraciones avanzadas pueden requerir un mayor nivel de conocimiento técnico.
+**- Curva de Aprendizaje:** Tanto Azure como Terraform pueden tener una curva de aprendizaje pronunciada para usuarios nuevos.
+
+**- Posibles Costos Adicionales:** La implementación incorrecta o ineficiente puede resultar en costos adicionales en Azure.
+
+**- Complejidad en la Configuración Avanzada:** Algunas configuraciones avanzadas pueden requerir un mayor nivel de conocimiento técnico.
   
-Autor/a: Andrés Paredes Fernández
+**Autor/a:** Andrés Paredes Fernández
  
-Curso: Administración de Sistemas MultiCloud con Azure, AWS y GCP.
+**Curso:** Administración de Sistemas MultiCloud con Azure, AWS y GCP.
  
-Centro: Tajamar
+**Centro:** Tajamar
  
-Año académico: 2023-2024
+**Año académico:** 2023-2024
  
-Linkedin: http://www.linkedin.com/in/andres-paredes-fernandez
+**Linkedin:** http://www.linkedin.com/in/andres-paredes-fernandez
