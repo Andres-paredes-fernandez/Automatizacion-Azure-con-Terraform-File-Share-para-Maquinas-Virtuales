@@ -46,4 +46,4 @@ Para este video utilizamos las siguientes herramientas:
  
 **Año académico:** 2023-2024
  
-**Linkedin:** http://www.linkedin.com/in/andres-paredes-fernandez
+**Linkedin:** https://www.linkedin.com/in/andres-paredes-fernandez
