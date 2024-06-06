@@ -1,6 +1,6 @@
 # Automatización Azure con Terraform: File Share para Máquinas Virtuales
 
-Enlace Video-Tutorial: 
+Enlace Video-Tutorial: https://youtu.be/lmpxHSeLsiQ
 
 En este tutorial, exploraremos la automatización de la creación de recursos en Azure utilizando Terraform. Este proceso abarca desde la creación de grupos de recursos hasta la implementación de máquinas virtuales, todo ello de manera escalable y personalizable según las necesidades particulares del usuario.
  
